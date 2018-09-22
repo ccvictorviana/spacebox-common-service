@@ -1,0 +1,9 @@
+br/com/spacebox/common/service/security/JwtTokenFilter.class
+br/com/spacebox/common/service/config/AuthClientConfiguration.class
+br/com/spacebox/common/service/security/JwtTokenFilterConfigurer.class
+br/com/spacebox/common/service/security/CustomWebSecurityConfig.class
+br/com/spacebox/common/service/security/UserDetailsAuth.class
+br/com/spacebox/common/service/security/JwtTokenProvider.class
+br/com/spacebox/common/service/client/AuthClient.class
+br/com/spacebox/common/service/security/PrincipalToken.class
+br/com/spacebox/common/service/security/UserDetailsAuth$UserDetailAuthBuilder.class

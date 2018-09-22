@@ -1,0 +1,8 @@
+/Users/victorviana/projects/spacebox/services-app/spacebox-common-service/src/main/java/br/com/spacebox/common/service/config/AuthClientConfiguration.java
+/Users/victorviana/projects/spacebox/services-app/spacebox-common-service/src/main/java/br/com/spacebox/common/service/client/AuthClient.java
+/Users/victorviana/projects/spacebox/services-app/spacebox-common-service/src/main/java/br/com/spacebox/common/service/security/PrincipalToken.java
+/Users/victorviana/projects/spacebox/services-app/spacebox-common-service/src/main/java/br/com/spacebox/common/service/security/JwtTokenFilterConfigurer.java
+/Users/victorviana/projects/spacebox/services-app/spacebox-common-service/src/main/java/br/com/spacebox/common/service/security/CustomWebSecurityConfig.java
+/Users/victorviana/projects/spacebox/services-app/spacebox-common-service/src/main/java/br/com/spacebox/common/service/security/UserDetailsAuth.java
+/Users/victorviana/projects/spacebox/services-app/spacebox-common-service/src/main/java/br/com/spacebox/common/service/security/JwtTokenProvider.java
+/Users/victorviana/projects/spacebox/services-app/spacebox-common-service/src/main/java/br/com/spacebox/common/service/security/JwtTokenFilter.java
