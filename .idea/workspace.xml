@@ -2,102 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4755490c-e008-470f-b899-84e335a3ad32" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../mobile-app/.idea/assetWizardSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mobile-app/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../mobile-app/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mobile-app/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mobile-app/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../file-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../file-service/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/config/CustomAuthenticationEntryPoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/domain/AEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/exceptions/BusinessException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/exceptions/RestExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/messages/EMessage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/messages/MessageSourceCustom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/messages/impl/MessageSourceCustomImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/model/request/LoginRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/model/request/UserRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/model/response/ErrorMessageResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/model/response/TokenResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/model/response/UserResponse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/security/PrincipalToken.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/security/UserDetailsAuth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/service/AEntityService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/service/ValidationType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/utils/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/validation/FluentValidation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/validation/FluentValidationImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/validation/FluentValidationInteger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/validation/FluentValidationLong.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/validation/FluentValidationResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/java/br/com/pandorabox/common/validation/FluentValidationString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/resources/messages.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/src/main/resources/messages_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/config/CustomAuthenticationEntryPoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/domain/AEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/exceptions/BusinessException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/exceptions/RestExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/messages/EMessage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/messages/MessageSourceCustom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/messages/impl/MessageSourceCustomImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/model/request/LoginRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/model/request/UserRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/model/response/ErrorMessageResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/model/response/TokenResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/model/response/UserResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/security/PrincipalToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/security/UserDetailsAuth$UserDetailAuthBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/security/UserDetailsAuth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/service/AEntityService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/service/ValidationType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/utils/Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/validation/FluentValidation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/validation/FluentValidationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/validation/FluentValidationInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/validation/FluentValidationLong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/validation/FluentValidationResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/br/com/pandorabox/common/validation/FluentValidationString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/messages.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/classes/messages_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-common/target/pandorabox-common-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/src/main/java/br/com/pandorabox/service/client/AuthClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/src/main/java/br/com/pandorabox/service/config/AuthClientConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/src/main/java/br/com/pandorabox/service/security/CustomWebSecurityConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/src/main/java/br/com/pandorabox/service/security/JwtTokenFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/src/main/java/br/com/pandorabox/service/security/JwtTokenFilterConfigurer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/src/main/java/br/com/pandorabox/service/security/JwtTokenProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/src/main/java/br/com/pandorabox/service/security/PrincipalToken.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/src/main/java/br/com/pandorabox/service/security/UserDetailsAuth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/classes/br/com/pandorabox/service/client/AuthClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/classes/br/com/pandorabox/service/config/AuthClientConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/classes/br/com/pandorabox/service/security/CustomWebSecurityConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/classes/br/com/pandorabox/service/security/JwtTokenFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/classes/br/com/pandorabox/service/security/JwtTokenFilterConfigurer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/classes/br/com/pandorabox/service/security/JwtTokenProvider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/classes/br/com/pandorabox/service/security/PrincipalToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/classes/br/com/pandorabox/service/security/UserDetailsAuth$UserDetailAuthBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/classes/br/com/pandorabox/service/security/UserDetailsAuth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandorabox-service/target/pandorabox-service-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spacebox-common-service-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/spacebox-common-service-1.0.0.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -225,6 +134,28 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="825923054">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="99" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open" />
+      <usages-collector id="statistics.file.types.open" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="99" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -273,11 +204,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/spacebox/common/service/security/JwtTokenProvider.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -285,11 +216,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+            <state relative-caret-position="148">
+              <caret line="60" column="36" lean-forward="true" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -353,7 +284,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -382,10 +313,10 @@
         <option value="$PROJECT_DIR$/src/main/java/br/com/pandorabox/service/security/JwtTokenFilter.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/pandorabox/service/security/CustomWebSecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/pandorabox/service/client/AuthClient.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/spacebox/common/service/client/AuthClient.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/spacebox/common/service/security/CustomWebSecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/spacebox/common/service/security/JwtTokenProvider.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -430,38 +361,12 @@
               <item name="spacebox-common-service" type="b2602c69:ProjectViewProjectNode" />
               <item name="spacebox-common-service" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spacebox-common-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spacebox-common-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spacebox-common-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spacebox-common-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spacebox-common-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spacebox-common-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spacebox-common-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spacebox-common-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -470,7 +375,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -508,19 +413,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.30769232" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31135532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" id="Maven Projects" order="7" visible="true" weight="0.16788767" />
+      <window_info id="Maven Projects" order="7" visible="true" weight="0.16788767" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3877551" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3877551" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -540,6 +445,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/pandorabox/service/model/request/UserRequest.java" />
@@ -642,6 +552,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/spacebox/common/service/security/CustomWebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/spacebox/common/service/client/AuthClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/spacebox/common/service/security/JwtTokenProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/spacebox/common/service/config/AuthClientConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -665,32 +599,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/spacebox/common/service/security/CustomWebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/spacebox/common/service/client/AuthClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/spacebox/common/service/security/JwtTokenProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="148">
+          <caret line="60" column="36" lean-forward="true" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
         </state>
       </provider>
     </entry>
