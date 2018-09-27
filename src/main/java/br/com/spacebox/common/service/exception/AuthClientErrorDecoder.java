@@ -3,7 +3,7 @@ package br.com.spacebox.common.service.exception;
 import feign.Response;
 import feign.codec.ErrorDecoder;
 
-public class SpaceBoxErrorDecoder implements ErrorDecoder {
+public class AuthClientErrorDecoder implements ErrorDecoder {
     private final ErrorDecoder defaultErrorDecoder = new Default();
 
     @Override

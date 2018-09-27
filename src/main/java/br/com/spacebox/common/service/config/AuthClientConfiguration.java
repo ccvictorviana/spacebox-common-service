@@ -1,6 +1,6 @@
 package br.com.spacebox.common.service.config;
 
-import br.com.spacebox.common.service.exception.SpaceBoxErrorDecoder;
+import br.com.spacebox.common.service.exception.AuthClientErrorDecoder;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 public class AuthClientConfiguration {
 
     @Bean
-    public SpaceBoxErrorDecoder spaceBoxErrorDecoder() {
-        return new SpaceBoxErrorDecoder();
+    public AuthClientErrorDecoder spaceBoxErrorDecoder() {
+        return new AuthClientErrorDecoder();
     }
 }
