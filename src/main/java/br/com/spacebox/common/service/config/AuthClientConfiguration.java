@@ -1,14 +1,14 @@
 package br.com.spacebox.common.service.config;
 
-public class AuthClientConfiguration {
-//    public Encoder feignEncoder() {
-//
-//        HttpMessageConverter jacksonConverter = new MappingJackson2HttpMessageConverter();
-//
-//        ObjectFactory<HttpMessageConverters> objectFactory = () -> new HttpMessageConverters(jacksonConverter);
-//
-//        return new SpringEncoder(null);
-//
-//    }
+import br.com.spacebox.common.service.exception.SpaceBoxErrorDecoder;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 
+@Configuration
+public class AuthClientConfiguration {
+
+    @Bean
+    public SpaceBoxErrorDecoder spaceBoxErrorDecoder() {
+        return new SpaceBoxErrorDecoder();
+    }
 }
